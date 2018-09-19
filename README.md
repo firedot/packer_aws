@@ -18,7 +18,7 @@ aws_secret_access_key= <your_secret_access_key>
 
 ## Clone this repository and go to the cloned repo dir
 ````
-git clone 
+git clone https://github.com/firedot/packer_aws.git
 
 cd packer_aws
 ````
